@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm <a target="_blank">SLEEPLESS</a> 
 <div id="header" align="center">
-  <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*etDJsZIWf76sb1P_l6ZW3w.gif" width="100"/>
+  <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*etDJsZIWf76sb1P_l6ZW3w.gif" width="1000"/>
 </div>
 <h3 align="center">Novice data science specialist 🇷🇺</h3>
 
