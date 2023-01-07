@@ -1,7 +1,9 @@
 
 
-<h1 align="center">Hi there, I'm <a target="_blank">VICTOR SMIRNOV</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a target="_blank">SLEEPLESS</a> 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h3 align="center">Novice data science specialist 🇷🇺</h3>
 
 <!--
