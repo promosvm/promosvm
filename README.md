@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm <a target="_blank">SLEEPLESS</a> 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" width="100"/>
 </div>
 <h3 align="center">Novice data science specialist 🇷🇺</h3>
 
